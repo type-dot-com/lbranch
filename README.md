@@ -1,5 +1,5 @@
 # lbranch
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/edc37227-c98a-4526-95ad-836d2f7490ff" />
+<img width="512" height="280" alt="image" src="https://github.com/user-attachments/assets/edc37227-c98a-4526-95ad-836d2f7490ff" />
 
 Link your git branches to Linear issues. Picks an issue, names your branch, assigns it to you, and marks it In Progress — all in one command.
 
